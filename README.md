@@ -65,7 +65,7 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-vip/main/update
 ```
 
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="Screenshot_20231229_194143" src="https://github.com/gemilangvip/autoscript-vip/assets/154574742/c991624a-24d4-46e1-9275-f4ea07c1caef">
+<img width="100%" alt="Screenshot_20231230_112447" src="https://github.com/gemilangvip/autoscript-vip/assets/154574742/aff0ba0b-f07e-43a9-bc88-e379b3e285d9">
 
 ## `! MEKANISME PENYEWAAN AUTOSCRIPT MEMBER VIP 10K, 2 IP / BULAN !`
 Script `VIP` Last Update `Version 2.4`, Semua Fitur Pada Menu Utama Sudah Dioptimalkan Sehingga Meminimalisir Adanya `BUG`<br>
